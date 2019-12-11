@@ -1,0 +1,13 @@
+.icon-des {
+  color: #5c8d89;
+}
+.icon-des:hover {
+  color: #6fb98f;
+}
+.btn-icon {
+  border: 0;
+  background: transparent !important;
+}
+.form-control{
+background: #f4f9f4;
+}
